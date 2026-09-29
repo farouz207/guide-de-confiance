@@ -34,7 +34,7 @@ export default function Home() {
     "offers": {
       "@type": "Offer",
       "availability": "https://schema.org/InStock",
-      "url": "https://votre-domaine.com/"
+      "url": "https://guide-de-confiance.vercel.app/"
     }
   };
 

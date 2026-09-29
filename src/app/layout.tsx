@@ -16,16 +16,16 @@ export const metadata: Metadata = {
   title: "Vaincre la peur de parler en public | Le Guide de Confiance",
   description: "Découvrez la méthode confidentielle pour vaincre le trac et maîtriser l'art de la prise de parole en public. Le protocole exact pour captiver votre auditoire et prendre confiance en vous.",
   alternates: {
-    canonical: "https://votre-domaine.com/",
+    canonical: "https://guide-de-confiance.vercel.app/",
   },
   openGraph: {
     title: "Vaincre la peur de parler en public | Le Guide de Confiance",
     description: "Découvrez la méthode confidentielle pour vaincre le trac et maîtriser la prise de parole en public.",
-    url: "https://votre-domaine.com/",
+    url: "https://guide-de-confiance.vercel.app/",
     type: "website",
     images: [
       {
-        url: "https://votre-domaine.com/screen.png",
+        url: "https://guide-de-confiance.vercel.app/screen.png",
       },
     ],
   },
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Vaincre la peur de parler en public | Le Guide de Confiance",
     description: "Découvrez la méthode confidentielle pour vaincre le trac et maîtriser la prise de parole en public.",
-    images: ["https://votre-domaine.com/screen.png"],
+    images: ["https://guide-de-confiance.vercel.app/screen.png"],
   },
   robots: {
     index: true,
